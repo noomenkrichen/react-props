@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <Profile
-        profession="web developer"
-        bio="single"
-        fullName="Mohamed ben Mohamed"
+        profession="Web developer"
+        bio="I'm learning javascript at GoMyCode"
+        fullName="Noomen Krichen"
         handleName={handleName}
       >
         <img src={pic} alt="profile" />
